@@ -1,0 +1,528 @@
+Couldn't find 'C:\Users\Papi24\.ollama\id_ed25519'. Generating new private key.
+Your new public key is: 
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHypR2a4niX2E2yw6E28PxJCL8MkzK9t7M9xI3NaAAJ9
+
+time=2024-04-09T19:35:37.578-07:00 level=INFO source=images.go:804 msg="total blobs: 0"
+time=2024-04-09T19:35:37.580-07:00 level=INFO source=images.go:811 msg="total unused blobs removed: 0"
+time=2024-04-09T19:35:37.581-07:00 level=INFO source=routes.go:1118 msg="Listening on 127.0.0.1:11434 (version 0.1.31)"
+time=2024-04-09T19:35:37.645-07:00 level=INFO source=payload_common.go:113 msg="Extracting dynamic libraries to C:\\Users\\Papi24\\AppData\\Local\\Temp\\ollama1062032935\\runners ..."
+time=2024-04-09T19:35:38.194-07:00 level=INFO source=payload_common.go:140 msg="Dynamic LLM libraries [cpu_avx rocm_v5.7 cpu cpu_avx2 cuda_v11.3]"
+[GIN] 2024/04/09 - 19:38:47 | 200 |            0s |       127.0.0.1 | HEAD     "/"
+time=2024-04-09T19:38:49.288-07:00 level=INFO source=download.go:136 msg="downloading e8a35b5937a5 in 42 100 MB part(s)"
+time=2024-04-09T19:38:55.308-07:00 level=INFO source=download.go:250 msg="e8a35b5937a5 part 32 stalled; retrying"
+time=2024-04-09T19:38:56.299-07:00 level=INFO source=download.go:250 msg="e8a35b5937a5 part 35 stalled; retrying"
+time=2024-04-09T19:38:56.300-07:00 level=INFO source=download.go:250 msg="e8a35b5937a5 part 5 stalled; retrying"
+time=2024-04-09T19:38:56.300-07:00 level=INFO source=download.go:250 msg="e8a35b5937a5 part 1 stalled; retrying"
+time=2024-04-09T19:38:56.300-07:00 level=INFO source=download.go:250 msg="e8a35b5937a5 part 12 stalled; retrying"
+time=2024-04-09T19:38:56.300-07:00 level=INFO source=download.go:250 msg="e8a35b5937a5 part 14 stalled; retrying"
+time=2024-04-09T19:38:56.300-07:00 level=INFO source=download.go:250 msg="e8a35b5937a5 part 15 stalled; retrying"
+time=2024-04-09T19:38:56.300-07:00 level=INFO source=download.go:250 msg="e8a35b5937a5 part 39 stalled; retrying"
+time=2024-04-09T19:38:56.300-07:00 level=INFO source=download.go:250 msg="e8a35b5937a5 part 34 stalled; retrying"
+time=2024-04-09T19:38:56.300-07:00 level=INFO source=download.go:250 msg="e8a35b5937a5 part 19 stalled; retrying"
+time=2024-04-09T19:38:56.300-07:00 level=INFO source=download.go:250 msg="e8a35b5937a5 part 24 stalled; retrying"
+time=2024-04-09T19:38:56.300-07:00 level=INFO source=download.go:250 msg="e8a35b5937a5 part 10 stalled; retrying"
+time=2024-04-09T19:38:56.300-07:00 level=INFO source=download.go:250 msg="e8a35b5937a5 part 30 stalled; retrying"
+time=2024-04-09T19:38:56.300-07:00 level=INFO source=download.go:250 msg="e8a35b5937a5 part 41 stalled; retrying"
+time=2024-04-09T19:38:56.300-07:00 level=INFO source=download.go:250 msg="e8a35b5937a5 part 21 stalled; retrying"
+time=2024-04-09T19:38:56.300-07:00 level=INFO source=download.go:250 msg="e8a35b5937a5 part 25 stalled; retrying"
+time=2024-04-09T19:38:56.300-07:00 level=INFO source=download.go:250 msg="e8a35b5937a5 part 20 stalled; retrying"
+time=2024-04-09T19:38:56.300-07:00 level=INFO source=download.go:250 msg="e8a35b5937a5 part 22 stalled; retrying"
+time=2024-04-09T19:38:56.300-07:00 level=INFO source=download.go:250 msg="e8a35b5937a5 part 33 stalled; retrying"
+time=2024-04-09T19:38:56.300-07:00 level=INFO source=download.go:250 msg="e8a35b5937a5 part 26 stalled; retrying"
+time=2024-04-09T19:38:56.300-07:00 level=INFO source=download.go:250 msg="e8a35b5937a5 part 37 stalled; retrying"
+time=2024-04-09T19:38:56.300-07:00 level=INFO source=download.go:250 msg="e8a35b5937a5 part 38 stalled; retrying"
+time=2024-04-09T19:38:56.300-07:00 level=INFO source=download.go:250 msg="e8a35b5937a5 part 2 stalled; retrying"
+time=2024-04-09T19:38:56.300-07:00 level=INFO source=download.go:250 msg="e8a35b5937a5 part 27 stalled; retrying"
+time=2024-04-09T19:38:56.300-07:00 level=INFO source=download.go:250 msg="e8a35b5937a5 part 23 stalled; retrying"
+time=2024-04-09T19:38:56.300-07:00 level=INFO source=download.go:250 msg="e8a35b5937a5 part 40 stalled; retrying"
+time=2024-04-09T19:38:56.300-07:00 level=INFO source=download.go:250 msg="e8a35b5937a5 part 3 stalled; retrying"
+time=2024-04-09T19:38:56.300-07:00 level=INFO source=download.go:250 msg="e8a35b5937a5 part 6 stalled; retrying"
+time=2024-04-09T19:38:56.300-07:00 level=INFO source=download.go:250 msg="e8a35b5937a5 part 4 stalled; retrying"
+time=2024-04-09T19:38:56.300-07:00 level=INFO source=download.go:250 msg="e8a35b5937a5 part 8 stalled; retrying"
+time=2024-04-09T19:38:56.300-07:00 level=INFO source=download.go:250 msg="e8a35b5937a5 part 0 stalled; retrying"
+time=2024-04-09T19:38:56.300-07:00 level=INFO source=download.go:250 msg="e8a35b5937a5 part 31 stalled; retrying"
+time=2024-04-09T19:38:56.300-07:00 level=INFO source=download.go:250 msg="e8a35b5937a5 part 36 stalled; retrying"
+time=2024-04-09T19:38:56.300-07:00 level=INFO source=download.go:250 msg="e8a35b5937a5 part 9 stalled; retrying"
+time=2024-04-09T19:38:57.320-07:00 level=INFO source=download.go:250 msg="e8a35b5937a5 part 28 stalled; retrying"
+time=2024-04-09T19:39:09.500-07:00 level=INFO source=download.go:250 msg="e8a35b5937a5 part 39 stalled; retrying"
+time=2024-04-09T19:40:24.582-07:00 level=INFO source=images.go:1134 msg="request failed: Head \"https://registry.ollama.ai/v2/library/mistral/blobs/sha256:43070e2d4e532684de521b885f385d0841030efa2b1a20bafb76133a5e1379c1\": read tcp [2603:7000:6200:1c41:a1ff:e9f5:f65:fe0f]:53621->[2606:4700:3036::6815:4be3]:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."
+[GIN] 2024/04/09 - 19:40:24 | 200 |         1m37s |       127.0.0.1 | POST     "/api/pull"
+[GIN] 2024/04/09 - 19:44:31 | 200 |       563.6µs |       127.0.0.1 | HEAD     "/"
+[GIN] 2024/04/09 - 19:44:31 | 404 |            0s |       127.0.0.1 | POST     "/api/show"
+time=2024-04-09T19:44:33.461-07:00 level=INFO source=download.go:136 msg="downloading 43070e2d4e53 in 1 11 KB part(s)"
+time=2024-04-09T19:44:36.566-07:00 level=INFO source=download.go:136 msg="downloading e6836092461f in 1 42 B part(s)"
+time=2024-04-09T19:44:39.739-07:00 level=INFO source=download.go:136 msg="downloading ed11eda7790d in 1 30 B part(s)"
+time=2024-04-09T19:44:42.892-07:00 level=INFO source=download.go:136 msg="downloading f9b1e3196ecf in 1 483 B part(s)"
+[GIN] 2024/04/09 - 19:45:06 | 200 |   35.2194687s |       127.0.0.1 | POST     "/api/pull"
+[GIN] 2024/04/09 - 19:45:06 | 200 |      2.7137ms |       127.0.0.1 | POST     "/api/show"
+[GIN] 2024/04/09 - 19:45:06 | 200 |      1.6231ms |       127.0.0.1 | POST     "/api/show"
+time=2024-04-09T19:45:09.682-07:00 level=INFO source=gpu.go:115 msg="Detecting GPU type"
+time=2024-04-09T19:45:09.682-07:00 level=INFO source=gpu.go:265 msg="Searching for GPU management library cudart64_*.dll"
+time=2024-04-09T19:45:09.695-07:00 level=INFO source=gpu.go:311 msg="Discovered GPU libraries: [C:\\Users\\Papi24\\AppData\\Local\\Programs\\Ollama\\cudart64_110.dll]"
+time=2024-04-09T19:45:12.128-07:00 level=INFO source=gpu.go:340 msg="Unable to load cudart CUDA management library C:\\Users\\Papi24\\AppData\\Local\\Programs\\Ollama\\cudart64_110.dll: cudart init failure: 35"
+time=2024-04-09T19:45:12.128-07:00 level=INFO source=gpu.go:265 msg="Searching for GPU management library nvml.dll"
+time=2024-04-09T19:45:12.136-07:00 level=INFO source=gpu.go:311 msg="Discovered GPU libraries: []"
+time=2024-04-09T19:45:12.136-07:00 level=INFO source=cpu_common.go:11 msg="CPU has AVX2"
+time=2024-04-09T19:45:12.137-07:00 level=INFO source=cpu_common.go:11 msg="CPU has AVX2"
+time=2024-04-09T19:45:12.137-07:00 level=INFO source=llm.go:85 msg="GPU not available, falling back to CPU"
+time=2024-04-09T19:45:12.138-07:00 level=INFO source=assets.go:108 msg="Updating PATH to C:\\Users\\Papi24\\AppData\\Local\\Temp\\ollama1062032935\\runners\\cpu_avx2;C:\\Users\\Papi24\\AppData\\Local\\Programs\\Ollama;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\dotnet\\;C:\\Program Files\\Git\\cmd;C:\\Program Files\\Git\\mingw64\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Users\\Papi24\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\;C:\\Users\\Papi24\\AppData\\Local\\Programs\\Python\\Python311\\;C:\\Users\\Papi24\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Papi24\\AppData\\Local\\Programs\\Microsoft VS Code\\bin "
+time=2024-04-09T19:45:13.966-07:00 level=INFO source=dyn_ext_server.go:87 msg="Loading Dynamic llm server: C:\\Users\\Papi24\\AppData\\Local\\Temp\\ollama1062032935\\runners\\cpu_avx2\\ext_server.dll"
+time=2024-04-09T19:45:13.966-07:00 level=INFO source=dyn_ext_server.go:147 msg="Initializing llama server"
+llama_model_loader: loaded meta data with 24 key-value pairs and 291 tensors from C:\Users\Papi24\.ollama\models\blobs\sha256-e8a35b5937a5e6d5c35d1f2a15f161e07eefe5e5bb0a3cdd42998ee79b057730 (version GGUF V3 (latest))
+llama_model_loader: Dumping metadata keys/values. Note: KV overrides do not apply in this output.
+llama_model_loader: - kv   0:                       general.architecture str              = llama
+llama_model_loader: - kv   1:                               general.name str              = mistralai
+llama_model_loader: - kv   2:                       llama.context_length u32              = 32768
+llama_model_loader: - kv   3:                     llama.embedding_length u32              = 4096
+llama_model_loader: - kv   4:                          llama.block_count u32              = 32
+llama_model_loader: - kv   5:                  llama.feed_forward_length u32              = 14336
+llama_model_loader: - kv   6:                 llama.rope.dimension_count u32              = 128
+llama_model_loader: - kv   7:                 llama.attention.head_count u32              = 32
+llama_model_loader: - kv   8:              llama.attention.head_count_kv u32              = 8
+llama_model_loader: - kv   9:     llama.attention.layer_norm_rms_epsilon f32              = 0.000010
+llama_model_loader: - kv  10:                       llama.rope.freq_base f32              = 1000000.000000
+llama_model_loader: - kv  11:                          general.file_type u32              = 2
+llama_model_loader: - kv  12:                       tokenizer.ggml.model str              = llama
+llama_model_loader: - kv  13:                      tokenizer.ggml.tokens arr[str,32000]   = ["<unk>", "<s>", "</s>", "<0x00>", "<...
+llama_model_loader: - kv  14:                      tokenizer.ggml.scores arr[f32,32000]   = [0.000000, 0.000000, 0.000000, 0.0000...
+llama_model_loader: - kv  15:                  tokenizer.ggml.token_type arr[i32,32000]   = [2, 3, 3, 6, 6, 6, 6, 6, 6, 6, 6, 6, ...
+llama_model_loader: - kv  16:                      tokenizer.ggml.merges arr[str,58980]   = ["▁ t", "i n", "e r", "▁ a", "h e...
+llama_model_loader: - kv  17:                tokenizer.ggml.bos_token_id u32              = 1
+llama_model_loader: - kv  18:                tokenizer.ggml.eos_token_id u32              = 2
+llama_model_loader: - kv  19:            tokenizer.ggml.unknown_token_id u32              = 0
+llama_model_loader: - kv  20:               tokenizer.ggml.add_bos_token bool             = true
+llama_model_loader: - kv  21:               tokenizer.ggml.add_eos_token bool             = false
+llama_model_loader: - kv  22:                    tokenizer.chat_template str              = {{ bos_token }}{% for message in mess...
+llama_model_loader: - kv  23:               general.quantization_version u32              = 2
+llama_model_loader: - type  f32:   65 tensors
+llama_model_loader: - type q4_0:  225 tensors
+llama_model_loader: - type q6_K:    1 tensors
+llm_load_vocab: special tokens definition check successful ( 259/32000 ).
+llm_load_print_meta: format           = GGUF V3 (latest)
+llm_load_print_meta: arch             = llama
+llm_load_print_meta: vocab type       = SPM
+llm_load_print_meta: n_vocab          = 32000
+llm_load_print_meta: n_merges         = 0
+llm_load_print_meta: n_ctx_train      = 32768
+llm_load_print_meta: n_embd           = 4096
+llm_load_print_meta: n_head           = 32
+llm_load_print_meta: n_head_kv        = 8
+llm_load_print_meta: n_layer          = 32
+llm_load_print_meta: n_rot            = 128
+llm_load_print_meta: n_embd_head_k    = 128
+llm_load_print_meta: n_embd_head_v    = 128
+llm_load_print_meta: n_gqa            = 4
+llm_load_print_meta: n_embd_k_gqa     = 1024
+llm_load_print_meta: n_embd_v_gqa     = 1024
+llm_load_print_meta: f_norm_eps       = 0.0e+00
+llm_load_print_meta: f_norm_rms_eps   = 1.0e-05
+llm_load_print_meta: f_clamp_kqv      = 0.0e+00
+llm_load_print_meta: f_max_alibi_bias = 0.0e+00
+llm_load_print_meta: f_logit_scale    = 0.0e+00
+llm_load_print_meta: n_ff             = 14336
+llm_load_print_meta: n_expert         = 0
+llm_load_print_meta: n_expert_used    = 0
+llm_load_print_meta: causal attn      = 1
+llm_load_print_meta: pooling type     = 0
+llm_load_print_meta: rope type        = 0
+llm_load_print_meta: rope scaling     = linear
+llm_load_print_meta: freq_base_train  = 1000000.0
+llm_load_print_meta: freq_scale_train = 1
+llm_load_print_meta: n_yarn_orig_ctx  = 32768
+llm_load_print_meta: rope_finetuned   = unknown
+llm_load_print_meta: ssm_d_conv       = 0
+llm_load_print_meta: ssm_d_inner      = 0
+llm_load_print_meta: ssm_d_state      = 0
+llm_load_print_meta: ssm_dt_rank      = 0
+llm_load_print_meta: model type       = 7B
+llm_load_print_meta: model ftype      = Q4_0
+llm_load_print_meta: model params     = 7.24 B
+llm_load_print_meta: model size       = 3.83 GiB (4.54 BPW) 
+llm_load_print_meta: general.name     = mistralai
+llm_load_print_meta: BOS token        = 1 '<s>'
+llm_load_print_meta: EOS token        = 2 '</s>'
+llm_load_print_meta: UNK token        = 0 '<unk>'
+llm_load_print_meta: LF token         = 13 '<0x0A>'
+llm_load_tensors: ggml ctx size =    0.11 MiB
+llm_load_tensors:        CPU buffer size =  3917.87 MiB
+..................................................................................................
+llama_new_context_with_model: n_ctx      = 2048
+llama_new_context_with_model: n_batch    = 512
+llama_new_context_with_model: n_ubatch   = 512
+llama_new_context_with_model: freq_base  = 1000000.0
+llama_new_context_with_model: freq_scale = 1
+llama_kv_cache_init:        CPU KV buffer size =   256.00 MiB
+llama_new_context_with_model: KV self size  =  256.00 MiB, K (f16):  128.00 MiB, V (f16):  128.00 MiB
+llama_new_context_with_model:        CPU  output buffer size =    70.50 MiB
+llama_new_context_with_model:        CPU compute buffer size =   164.00 MiB
+llama_new_context_with_model: graph nodes  = 1060
+llama_new_context_with_model: graph splits = 1
+{"function":"initialize","level":"INFO","line":444,"msg":"initializing slots","n_slots":1,"tid":"12816","timestamp":1712717117}
+{"function":"initialize","level":"INFO","line":456,"msg":"new slot","n_ctx_slot":2048,"slot_id":0,"tid":"12816","timestamp":1712717117}
+time=2024-04-09T19:45:17.138-07:00 level=INFO source=dyn_ext_server.go:159 msg="Starting llama main loop"
+[GIN] 2024/04/09 - 19:45:17 | 200 |   10.8687256s |       127.0.0.1 | POST     "/api/chat"
+{"function":"update_slots","level":"INFO","line":1574,"msg":"all slots are idle and system prompt is empty, clear the KV cache","tid":"3244","timestamp":1712717117}
+{"function":"launch_slot_with_data","level":"INFO","line":829,"msg":"slot is processing task","slot_id":0,"task_id":0,"tid":"3244","timestamp":1712717143}
+{"function":"update_slots","ga_i":0,"level":"INFO","line":1812,"msg":"slot progression","n_past":0,"n_past_se":0,"n_prompt_tokens_processed":14,"slot_id":0,"task_id":0,"tid":"3244","timestamp":1712717143}
+{"function":"update_slots","level":"INFO","line":1836,"msg":"kv cache rm [p0, end)","p0":0,"slot_id":0,"task_id":0,"tid":"3244","timestamp":1712717143}
+{"function":"print_timings","level":"INFO","line":272,"msg":"prompt eval time     =    2388.31 ms /    14 tokens (  170.59 ms per token,     5.86 tokens per second)","n_prompt_tokens_processed":14,"n_tokens_second":5.861885601115433,"slot_id":0,"t_prompt_processing":2388.31,"t_token":170.59357142857144,"task_id":0,"tid":"3244","timestamp":1712717204}
+{"function":"print_timings","level":"INFO","line":286,"msg":"generation eval time =   58830.76 ms /   139 runs   (  423.24 ms per token,     2.36 tokens per second)","n_decoded":139,"n_tokens_second":2.362709736383466,"slot_id":0,"t_token":423.2428489208633,"t_token_generation":58830.756,"task_id":0,"tid":"3244","timestamp":1712717204}
+{"function":"print_timings","level":"INFO","line":295,"msg":"          total time =   61219.07 ms","slot_id":0,"t_prompt_processing":2388.31,"t_token_generation":58830.756,"t_total":61219.066,"task_id":0,"tid":"3244","timestamp":1712717204}
+{"function":"update_slots","level":"INFO","line":1644,"msg":"slot released","n_cache_tokens":153,"n_ctx":2048,"n_past":152,"n_system_tokens":0,"slot_id":0,"task_id":0,"tid":"3244","timestamp":1712717204,"truncated":false}
+[GIN] 2024/04/09 - 19:46:44 | 200 |          1m1s |       127.0.0.1 | POST     "/api/chat"
+time=2024-04-09T19:53:37.831-07:00 level=INFO source=cpu_common.go:11 msg="CPU has AVX2"
+time=2024-04-09T19:53:37.831-07:00 level=INFO source=cpu_common.go:11 msg="CPU has AVX2"
+time=2024-04-09T19:53:37.832-07:00 level=INFO source=llm.go:85 msg="GPU not available, falling back to CPU"
+time=2024-04-09T19:53:37.832-07:00 level=INFO source=dyn_ext_server.go:87 msg="Loading Dynamic llm server: C:\\Users\\Papi24\\AppData\\Local\\Temp\\ollama1062032935\\runners\\cpu_avx2\\ext_server.dll"
+time=2024-04-09T19:53:37.832-07:00 level=INFO source=dyn_ext_server.go:147 msg="Initializing llama server"
+llama_model_loader: loaded meta data with 24 key-value pairs and 291 tensors from C:\Users\Papi24\.ollama\models\blobs\sha256-e8a35b5937a5e6d5c35d1f2a15f161e07eefe5e5bb0a3cdd42998ee79b057730 (version GGUF V3 (latest))
+llama_model_loader: Dumping metadata keys/values. Note: KV overrides do not apply in this output.
+llama_model_loader: - kv   0:                       general.architecture str              = llama
+llama_model_loader: - kv   1:                               general.name str              = mistralai
+llama_model_loader: - kv   2:                       llama.context_length u32              = 32768
+llama_model_loader: - kv   3:                     llama.embedding_length u32              = 4096
+llama_model_loader: - kv   4:                          llama.block_count u32              = 32
+llama_model_loader: - kv   5:                  llama.feed_forward_length u32              = 14336
+llama_model_loader: - kv   6:                 llama.rope.dimension_count u32              = 128
+llama_model_loader: - kv   7:                 llama.attention.head_count u32              = 32
+llama_model_loader: - kv   8:              llama.attention.head_count_kv u32              = 8
+llama_model_loader: - kv   9:     llama.attention.layer_norm_rms_epsilon f32              = 0.000010
+llama_model_loader: - kv  10:                       llama.rope.freq_base f32              = 1000000.000000
+llama_model_loader: - kv  11:                          general.file_type u32              = 2
+llama_model_loader: - kv  12:                       tokenizer.ggml.model str              = llama
+llama_model_loader: - kv  13:                      tokenizer.ggml.tokens arr[str,32000]   = ["<unk>", "<s>", "</s>", "<0x00>", "<...
+llama_model_loader: - kv  14:                      tokenizer.ggml.scores arr[f32,32000]   = [0.000000, 0.000000, 0.000000, 0.0000...
+llama_model_loader: - kv  15:                  tokenizer.ggml.token_type arr[i32,32000]   = [2, 3, 3, 6, 6, 6, 6, 6, 6, 6, 6, 6, ...
+llama_model_loader: - kv  16:                      tokenizer.ggml.merges arr[str,58980]   = ["▁ t", "i n", "e r", "▁ a", "h e...
+llama_model_loader: - kv  17:                tokenizer.ggml.bos_token_id u32              = 1
+llama_model_loader: - kv  18:                tokenizer.ggml.eos_token_id u32              = 2
+llama_model_loader: - kv  19:            tokenizer.ggml.unknown_token_id u32              = 0
+llama_model_loader: - kv  20:               tokenizer.ggml.add_bos_token bool             = true
+llama_model_loader: - kv  21:               tokenizer.ggml.add_eos_token bool             = false
+llama_model_loader: - kv  22:                    tokenizer.chat_template str              = {{ bos_token }}{% for message in mess...
+llama_model_loader: - kv  23:               general.quantization_version u32              = 2
+llama_model_loader: - type  f32:   65 tensors
+llama_model_loader: - type q4_0:  225 tensors
+llama_model_loader: - type q6_K:    1 tensors
+llm_load_vocab: special tokens definition check successful ( 259/32000 ).
+llm_load_print_meta: format           = GGUF V3 (latest)
+llm_load_print_meta: arch             = llama
+llm_load_print_meta: vocab type       = SPM
+llm_load_print_meta: n_vocab          = 32000
+llm_load_print_meta: n_merges         = 0
+llm_load_print_meta: n_ctx_train      = 32768
+llm_load_print_meta: n_embd           = 4096
+llm_load_print_meta: n_head           = 32
+llm_load_print_meta: n_head_kv        = 8
+llm_load_print_meta: n_layer          = 32
+llm_load_print_meta: n_rot            = 128
+llm_load_print_meta: n_embd_head_k    = 128
+llm_load_print_meta: n_embd_head_v    = 128
+llm_load_print_meta: n_gqa            = 4
+llm_load_print_meta: n_embd_k_gqa     = 1024
+llm_load_print_meta: n_embd_v_gqa     = 1024
+llm_load_print_meta: f_norm_eps       = 0.0e+00
+llm_load_print_meta: f_norm_rms_eps   = 1.0e-05
+llm_load_print_meta: f_clamp_kqv      = 0.0e+00
+llm_load_print_meta: f_max_alibi_bias = 0.0e+00
+llm_load_print_meta: f_logit_scale    = 0.0e+00
+llm_load_print_meta: n_ff             = 14336
+llm_load_print_meta: n_expert         = 0
+llm_load_print_meta: n_expert_used    = 0
+llm_load_print_meta: causal attn      = 1
+llm_load_print_meta: pooling type     = 0
+llm_load_print_meta: rope type        = 0
+llm_load_print_meta: rope scaling     = linear
+llm_load_print_meta: freq_base_train  = 1000000.0
+llm_load_print_meta: freq_scale_train = 1
+llm_load_print_meta: n_yarn_orig_ctx  = 32768
+llm_load_print_meta: rope_finetuned   = unknown
+llm_load_print_meta: ssm_d_conv       = 0
+llm_load_print_meta: ssm_d_inner      = 0
+llm_load_print_meta: ssm_d_state      = 0
+llm_load_print_meta: ssm_dt_rank      = 0
+llm_load_print_meta: model type       = 7B
+llm_load_print_meta: model ftype      = Q4_0
+llm_load_print_meta: model params     = 7.24 B
+llm_load_print_meta: model size       = 3.83 GiB (4.54 BPW) 
+llm_load_print_meta: general.name     = mistralai
+llm_load_print_meta: BOS token        = 1 '<s>'
+llm_load_print_meta: EOS token        = 2 '</s>'
+llm_load_print_meta: UNK token        = 0 '<unk>'
+llm_load_print_meta: LF token         = 13 '<0x0A>'
+llm_load_tensors: ggml ctx size =    0.11 MiB
+llm_load_tensors:        CPU buffer size =  3917.87 MiB
+..................................................................................................
+llama_new_context_with_model: n_ctx      = 2048
+llama_new_context_with_model: n_batch    = 512
+llama_new_context_with_model: n_ubatch   = 512
+llama_new_context_with_model: freq_base  = 1000000.0
+llama_new_context_with_model: freq_scale = 1
+llama_kv_cache_init:        CPU KV buffer size =   256.00 MiB
+llama_new_context_with_model: KV self size  =  256.00 MiB, K (f16):  128.00 MiB, V (f16):  128.00 MiB
+llama_new_context_with_model:        CPU  output buffer size =    70.50 MiB
+llama_new_context_with_model:        CPU compute buffer size =   164.00 MiB
+llama_new_context_with_model: graph nodes  = 1060
+llama_new_context_with_model: graph splits = 1
+{"function":"initialize","level":"INFO","line":444,"msg":"initializing slots","n_slots":1,"tid":"6632","timestamp":1712717621}
+{"function":"initialize","level":"INFO","line":456,"msg":"new slot","n_ctx_slot":2048,"slot_id":0,"tid":"6632","timestamp":1712717621}
+time=2024-04-09T19:53:41.092-07:00 level=INFO source=dyn_ext_server.go:159 msg="Starting llama main loop"
+{"function":"update_slots","level":"INFO","line":1574,"msg":"all slots are idle and system prompt is empty, clear the KV cache","tid":"12420","timestamp":1712717621}
+{"function":"launch_slot_with_data","level":"INFO","line":829,"msg":"slot is processing task","slot_id":0,"task_id":0,"tid":"12420","timestamp":1712717621}
+{"function":"update_slots","ga_i":0,"level":"INFO","line":1812,"msg":"slot progression","n_past":0,"n_past_se":0,"n_prompt_tokens_processed":189,"slot_id":0,"task_id":0,"tid":"12420","timestamp":1712717621}
+{"function":"update_slots","level":"INFO","line":1836,"msg":"kv cache rm [p0, end)","p0":0,"slot_id":0,"task_id":0,"tid":"12420","timestamp":1712717621}
+{"function":"print_timings","level":"INFO","line":272,"msg":"prompt eval time     =   30634.40 ms /   189 tokens (  162.09 ms per token,     6.17 tokens per second)","n_prompt_tokens_processed":189,"n_tokens_second":6.1695349019403025,"slot_id":0,"t_prompt_processing":30634.4,"t_token":162.0867724867725,"task_id":0,"tid":"12420","timestamp":1712717703}
+{"function":"print_timings","level":"INFO","line":286,"msg":"generation eval time =   51476.47 ms /   147 runs   (  350.18 ms per token,     2.86 tokens per second)","n_decoded":147,"n_tokens_second":2.855673503505184,"slot_id":0,"t_token":350.18008843537416,"t_token_generation":51476.473,"task_id":0,"tid":"12420","timestamp":1712717703}
+{"function":"print_timings","level":"INFO","line":295,"msg":"          total time =   82110.87 ms","slot_id":0,"t_prompt_processing":30634.4,"t_token_generation":51476.473,"t_total":82110.87299999999,"task_id":0,"tid":"12420","timestamp":1712717703}
+{"function":"update_slots","level":"INFO","line":1644,"msg":"slot released","n_cache_tokens":336,"n_ctx":2048,"n_past":335,"n_system_tokens":0,"slot_id":0,"task_id":0,"tid":"12420","timestamp":1712717703,"truncated":false}
+[GIN] 2024/04/09 - 19:55:03 | 200 |         1m28s |       127.0.0.1 | POST     "/api/chat"
+time=2024-04-09T20:00:18.381-07:00 level=INFO source=cpu_common.go:11 msg="CPU has AVX2"
+time=2024-04-09T20:00:18.381-07:00 level=INFO source=cpu_common.go:11 msg="CPU has AVX2"
+time=2024-04-09T20:00:18.382-07:00 level=INFO source=llm.go:85 msg="GPU not available, falling back to CPU"
+time=2024-04-09T20:00:18.382-07:00 level=INFO source=dyn_ext_server.go:87 msg="Loading Dynamic llm server: C:\\Users\\Papi24\\AppData\\Local\\Temp\\ollama1062032935\\runners\\cpu_avx2\\ext_server.dll"
+time=2024-04-09T20:00:18.382-07:00 level=INFO source=dyn_ext_server.go:147 msg="Initializing llama server"
+llama_model_loader: loaded meta data with 24 key-value pairs and 291 tensors from C:\Users\Papi24\.ollama\models\blobs\sha256-e8a35b5937a5e6d5c35d1f2a15f161e07eefe5e5bb0a3cdd42998ee79b057730 (version GGUF V3 (latest))
+llama_model_loader: Dumping metadata keys/values. Note: KV overrides do not apply in this output.
+llama_model_loader: - kv   0:                       general.architecture str              = llama
+llama_model_loader: - kv   1:                               general.name str              = mistralai
+llama_model_loader: - kv   2:                       llama.context_length u32              = 32768
+llama_model_loader: - kv   3:                     llama.embedding_length u32              = 4096
+llama_model_loader: - kv   4:                          llama.block_count u32              = 32
+llama_model_loader: - kv   5:                  llama.feed_forward_length u32              = 14336
+llama_model_loader: - kv   6:                 llama.rope.dimension_count u32              = 128
+llama_model_loader: - kv   7:                 llama.attention.head_count u32              = 32
+llama_model_loader: - kv   8:              llama.attention.head_count_kv u32              = 8
+llama_model_loader: - kv   9:     llama.attention.layer_norm_rms_epsilon f32              = 0.000010
+llama_model_loader: - kv  10:                       llama.rope.freq_base f32              = 1000000.000000
+llama_model_loader: - kv  11:                          general.file_type u32              = 2
+llama_model_loader: - kv  12:                       tokenizer.ggml.model str              = llama
+llama_model_loader: - kv  13:                      tokenizer.ggml.tokens arr[str,32000]   = ["<unk>", "<s>", "</s>", "<0x00>", "<...
+llama_model_loader: - kv  14:                      tokenizer.ggml.scores arr[f32,32000]   = [0.000000, 0.000000, 0.000000, 0.0000...
+llama_model_loader: - kv  15:                  tokenizer.ggml.token_type arr[i32,32000]   = [2, 3, 3, 6, 6, 6, 6, 6, 6, 6, 6, 6, ...
+llama_model_loader: - kv  16:                      tokenizer.ggml.merges arr[str,58980]   = ["▁ t", "i n", "e r", "▁ a", "h e...
+llama_model_loader: - kv  17:                tokenizer.ggml.bos_token_id u32              = 1
+llama_model_loader: - kv  18:                tokenizer.ggml.eos_token_id u32              = 2
+llama_model_loader: - kv  19:            tokenizer.ggml.unknown_token_id u32              = 0
+llama_model_loader: - kv  20:               tokenizer.ggml.add_bos_token bool             = true
+llama_model_loader: - kv  21:               tokenizer.ggml.add_eos_token bool             = false
+llama_model_loader: - kv  22:                    tokenizer.chat_template str              = {{ bos_token }}{% for message in mess...
+llama_model_loader: - kv  23:               general.quantization_version u32              = 2
+llama_model_loader: - type  f32:   65 tensors
+llama_model_loader: - type q4_0:  225 tensors
+llama_model_loader: - type q6_K:    1 tensors
+llm_load_vocab: special tokens definition check successful ( 259/32000 ).
+llm_load_print_meta: format           = GGUF V3 (latest)
+llm_load_print_meta: arch             = llama
+llm_load_print_meta: vocab type       = SPM
+llm_load_print_meta: n_vocab          = 32000
+llm_load_print_meta: n_merges         = 0
+llm_load_print_meta: n_ctx_train      = 32768
+llm_load_print_meta: n_embd           = 4096
+llm_load_print_meta: n_head           = 32
+llm_load_print_meta: n_head_kv        = 8
+llm_load_print_meta: n_layer          = 32
+llm_load_print_meta: n_rot            = 128
+llm_load_print_meta: n_embd_head_k    = 128
+llm_load_print_meta: n_embd_head_v    = 128
+llm_load_print_meta: n_gqa            = 4
+llm_load_print_meta: n_embd_k_gqa     = 1024
+llm_load_print_meta: n_embd_v_gqa     = 1024
+llm_load_print_meta: f_norm_eps       = 0.0e+00
+llm_load_print_meta: f_norm_rms_eps   = 1.0e-05
+llm_load_print_meta: f_clamp_kqv      = 0.0e+00
+llm_load_print_meta: f_max_alibi_bias = 0.0e+00
+llm_load_print_meta: f_logit_scale    = 0.0e+00
+llm_load_print_meta: n_ff             = 14336
+llm_load_print_meta: n_expert         = 0
+llm_load_print_meta: n_expert_used    = 0
+llm_load_print_meta: causal attn      = 1
+llm_load_print_meta: pooling type     = 0
+llm_load_print_meta: rope type        = 0
+llm_load_print_meta: rope scaling     = linear
+llm_load_print_meta: freq_base_train  = 1000000.0
+llm_load_print_meta: freq_scale_train = 1
+llm_load_print_meta: n_yarn_orig_ctx  = 32768
+llm_load_print_meta: rope_finetuned   = unknown
+llm_load_print_meta: ssm_d_conv       = 0
+llm_load_print_meta: ssm_d_inner      = 0
+llm_load_print_meta: ssm_d_state      = 0
+llm_load_print_meta: ssm_dt_rank      = 0
+llm_load_print_meta: model type       = 7B
+llm_load_print_meta: model ftype      = Q4_0
+llm_load_print_meta: model params     = 7.24 B
+llm_load_print_meta: model size       = 3.83 GiB (4.54 BPW) 
+llm_load_print_meta: general.name     = mistralai
+llm_load_print_meta: BOS token        = 1 '<s>'
+llm_load_print_meta: EOS token        = 2 '</s>'
+llm_load_print_meta: UNK token        = 0 '<unk>'
+llm_load_print_meta: LF token         = 13 '<0x0A>'
+llm_load_tensors: ggml ctx size =    0.11 MiB
+llm_load_tensors:        CPU buffer size =  3917.87 MiB
+..................................................................................................
+llama_new_context_with_model: n_ctx      = 2048
+llama_new_context_with_model: n_batch    = 512
+llama_new_context_with_model: n_ubatch   = 512
+llama_new_context_with_model: freq_base  = 1000000.0
+llama_new_context_with_model: freq_scale = 1
+llama_kv_cache_init:        CPU KV buffer size =   256.00 MiB
+llama_new_context_with_model: KV self size  =  256.00 MiB, K (f16):  128.00 MiB, V (f16):  128.00 MiB
+llama_new_context_with_model:        CPU  output buffer size =    70.50 MiB
+llama_new_context_with_model:        CPU compute buffer size =   164.00 MiB
+llama_new_context_with_model: graph nodes  = 1060
+llama_new_context_with_model: graph splits = 1
+{"function":"initialize","level":"INFO","line":444,"msg":"initializing slots","n_slots":1,"tid":"1076","timestamp":1712718021}
+{"function":"initialize","level":"INFO","line":456,"msg":"new slot","n_ctx_slot":2048,"slot_id":0,"tid":"1076","timestamp":1712718021}
+time=2024-04-09T20:00:21.397-07:00 level=INFO source=dyn_ext_server.go:159 msg="Starting llama main loop"
+{"function":"update_slots","level":"INFO","line":1574,"msg":"all slots are idle and system prompt is empty, clear the KV cache","tid":"6184","timestamp":1712718021}
+{"function":"launch_slot_with_data","level":"INFO","line":829,"msg":"slot is processing task","slot_id":0,"task_id":0,"tid":"6184","timestamp":1712718021}
+{"function":"update_slots","ga_i":0,"level":"INFO","line":1812,"msg":"slot progression","n_past":0,"n_past_se":0,"n_prompt_tokens_processed":378,"slot_id":0,"task_id":0,"tid":"6184","timestamp":1712718021}
+{"function":"update_slots","level":"INFO","line":1836,"msg":"kv cache rm [p0, end)","p0":0,"slot_id":0,"task_id":0,"tid":"6184","timestamp":1712718021}
+{"function":"print_timings","level":"INFO","line":272,"msg":"prompt eval time     =   59325.69 ms /   378 tokens (  156.95 ms per token,     6.37 tokens per second)","n_prompt_tokens_processed":378,"n_tokens_second":6.371606879137394,"slot_id":0,"t_prompt_processing":59325.694,"t_token":156.94628042328043,"task_id":0,"tid":"6184","timestamp":1712718145}
+{"function":"print_timings","level":"INFO","line":286,"msg":"generation eval time =   64735.14 ms /   193 runs   (  335.42 ms per token,     2.98 tokens per second)","n_decoded":193,"n_tokens_second":2.9813792935762335,"slot_id":0,"t_token":335.41522279792747,"t_token_generation":64735.138,"task_id":0,"tid":"6184","timestamp":1712718145}
+{"function":"print_timings","level":"INFO","line":295,"msg":"          total time =  124060.83 ms","slot_id":0,"t_prompt_processing":59325.694,"t_token_generation":64735.138,"t_total":124060.832,"task_id":0,"tid":"6184","timestamp":1712718145}
+{"function":"update_slots","level":"INFO","line":1644,"msg":"slot released","n_cache_tokens":571,"n_ctx":2048,"n_past":570,"n_system_tokens":0,"slot_id":0,"task_id":0,"tid":"6184","timestamp":1712718145,"truncated":false}
+[GIN] 2024/04/09 - 20:02:25 | 200 |          2m9s |       127.0.0.1 | POST     "/api/chat"
+[GIN] 2024/04/09 - 20:02:49 | 200 |     56.6964ms |       127.0.0.1 | POST     "/api/create"
+{"function":"launch_slot_with_data","level":"INFO","line":829,"msg":"slot is processing task","slot_id":0,"task_id":196,"tid":"6184","timestamp":1712718196}
+{"function":"update_slots","ga_i":0,"level":"INFO","line":1812,"msg":"slot progression","n_past":569,"n_past_se":0,"n_prompt_tokens_processed":10,"slot_id":0,"task_id":196,"tid":"6184","timestamp":1712718196}
+{"function":"update_slots","level":"INFO","line":1836,"msg":"kv cache rm [p0, end)","p0":569,"slot_id":0,"task_id":196,"tid":"6184","timestamp":1712718196}
+{"function":"print_timings","level":"INFO","line":272,"msg":"prompt eval time     =    2164.29 ms /    10 tokens (  216.43 ms per token,     4.62 tokens per second)","n_prompt_tokens_processed":10,"n_tokens_second":4.620455031652427,"slot_id":0,"t_prompt_processing":2164.289,"t_token":216.42890000000003,"task_id":196,"tid":"6184","timestamp":1712718206}
+{"function":"print_timings","level":"INFO","line":286,"msg":"generation eval time =    8265.44 ms /    30 runs   (  275.51 ms per token,     3.63 tokens per second)","n_decoded":30,"n_tokens_second":3.6295699612918466,"slot_id":0,"t_token":275.5147333333333,"t_token_generation":8265.442,"task_id":196,"tid":"6184","timestamp":1712718206}
+{"function":"print_timings","level":"INFO","line":295,"msg":"          total time =   10429.73 ms","slot_id":0,"t_prompt_processing":2164.289,"t_token_generation":8265.442,"t_total":10429.731,"task_id":196,"tid":"6184","timestamp":1712718206}
+{"function":"update_slots","level":"INFO","line":1644,"msg":"slot released","n_cache_tokens":609,"n_ctx":2048,"n_past":608,"n_system_tokens":0,"slot_id":0,"task_id":196,"tid":"6184","timestamp":1712718206,"truncated":false}
+[GIN] 2024/04/09 - 20:03:26 | 200 |   10.4359248s |       127.0.0.1 | POST     "/api/chat"
+{"function":"launch_slot_with_data","level":"INFO","line":829,"msg":"slot is processing task","slot_id":0,"task_id":229,"tid":"6184","timestamp":1712718233}
+{"function":"update_slots","ga_i":0,"level":"INFO","line":1812,"msg":"slot progression","n_past":607,"n_past_se":0,"n_prompt_tokens_processed":15,"slot_id":0,"task_id":229,"tid":"6184","timestamp":1712718233}
+{"function":"update_slots","level":"INFO","line":1836,"msg":"kv cache rm [p0, end)","p0":607,"slot_id":0,"task_id":229,"tid":"6184","timestamp":1712718233}
+{"function":"print_timings","level":"INFO","line":272,"msg":"prompt eval time     =    2715.70 ms /    15 tokens (  181.05 ms per token,     5.52 tokens per second)","n_prompt_tokens_processed":15,"n_tokens_second":5.523437787679052,"slot_id":0,"t_prompt_processing":2715.7,"t_token":181.04666666666665,"task_id":229,"tid":"6184","timestamp":1712718287}
+{"function":"print_timings","level":"INFO","line":286,"msg":"generation eval time =   51808.64 ms /   137 runs   (  378.17 ms per token,     2.64 tokens per second)","n_decoded":137,"n_tokens_second":2.644346631070544,"slot_id":0,"t_token":378.1652481751825,"t_token_generation":51808.639,"task_id":229,"tid":"6184","timestamp":1712718287}
+{"function":"print_timings","level":"INFO","line":295,"msg":"          total time =   54524.34 ms","slot_id":0,"t_prompt_processing":2715.7,"t_token_generation":51808.639,"t_total":54524.339,"task_id":229,"tid":"6184","timestamp":1712718287}
+{"function":"update_slots","level":"INFO","line":1644,"msg":"slot released","n_cache_tokens":759,"n_ctx":2048,"n_past":758,"n_system_tokens":0,"slot_id":0,"task_id":229,"tid":"6184","timestamp":1712718287,"truncated":false}
+[GIN] 2024/04/09 - 20:04:47 | 200 |   54.5308335s |       127.0.0.1 | POST     "/api/chat"
+{"function":"launch_slot_with_data","level":"INFO","line":829,"msg":"slot is processing task","slot_id":0,"task_id":369,"tid":"6184","timestamp":1712718294}
+{"function":"update_slots","ga_i":0,"level":"INFO","line":1812,"msg":"slot progression","n_past":757,"n_past_se":0,"n_prompt_tokens_processed":15,"slot_id":0,"task_id":369,"tid":"6184","timestamp":1712718294}
+{"function":"update_slots","level":"INFO","line":1836,"msg":"kv cache rm [p0, end)","p0":757,"slot_id":0,"task_id":369,"tid":"6184","timestamp":1712718294}
+{"function":"print_timings","level":"INFO","line":272,"msg":"prompt eval time     =    2657.81 ms /    15 tokens (  177.19 ms per token,     5.64 tokens per second)","n_prompt_tokens_processed":15,"n_tokens_second":5.643750656086015,"slot_id":0,"t_prompt_processing":2657.807,"t_token":177.18713333333332,"task_id":369,"tid":"6184","timestamp":1712718346}
+{"function":"print_timings","level":"INFO","line":286,"msg":"generation eval time =   49057.87 ms /   133 runs   (  368.86 ms per token,     2.71 tokens per second)","n_decoded":133,"n_tokens_second":2.711083813645317,"slot_id":0,"t_token":368.8561729323308,"t_token_generation":49057.871,"task_id":369,"tid":"6184","timestamp":1712718346}
+{"function":"print_timings","level":"INFO","line":295,"msg":"          total time =   51715.68 ms","slot_id":0,"t_prompt_processing":2657.807,"t_token_generation":49057.871,"t_total":51715.678,"task_id":369,"tid":"6184","timestamp":1712718346}
+{"function":"update_slots","level":"INFO","line":1644,"msg":"slot released","n_cache_tokens":905,"n_ctx":2048,"n_past":904,"n_system_tokens":0,"slot_id":0,"task_id":369,"tid":"6184","timestamp":1712718346,"truncated":false}
+[GIN] 2024/04/09 - 20:05:46 | 200 |   51.7223838s |       127.0.0.1 | POST     "/api/chat"
+[GIN] 2024/04/09 - 20:11:38 | 200 |            0s |       127.0.0.1 | HEAD     "/"
+[GIN] 2024/04/09 - 20:11:55 | 200 |            0s |       127.0.0.1 | HEAD     "/"
+time=2024-04-09T20:43:26.434-07:00 level=INFO source=images.go:804 msg="total blobs: 8"
+time=2024-04-09T20:43:26.455-07:00 level=INFO source=images.go:811 msg="total unused blobs removed: 0"
+time=2024-04-09T20:43:26.460-07:00 level=INFO source=routes.go:1118 msg="Listening on 127.0.0.1:11434 (version 0.1.31)"
+time=2024-04-09T20:43:26.469-07:00 level=INFO source=payload_common.go:113 msg="Extracting dynamic libraries to C:\\Users\\Papi24\\AppData\\Local\\Temp\\ollama291867775\\runners ..."
+time=2024-04-09T20:43:27.144-07:00 level=INFO source=payload_common.go:140 msg="Dynamic LLM libraries [cpu_avx2 cpu_avx cpu rocm_v5.7 cuda_v11.3]"
+[GIN] 2024/04/09 - 20:58:02 | 200 |            0s |       127.0.0.1 | HEAD     "/"
+time=2024-04-09T21:06:49.154-07:00 level=INFO source=images.go:804 msg="total blobs: 8"
+time=2024-04-09T21:06:49.171-07:00 level=INFO source=images.go:811 msg="total unused blobs removed: 0"
+time=2024-04-09T21:06:49.172-07:00 level=INFO source=routes.go:1118 msg="Listening on 127.0.0.1:11434 (version 0.1.31)"
+time=2024-04-09T21:06:49.176-07:00 level=INFO source=payload_common.go:113 msg="Extracting dynamic libraries to C:\\Users\\Papi24\\AppData\\Local\\Temp\\ollama3282240402\\runners ..."
+time=2024-04-09T21:06:49.539-07:00 level=INFO source=payload_common.go:140 msg="Dynamic LLM libraries [cpu cpu_avx2 cpu_avx cuda_v11.3 rocm_v5.7]"
+time=2024-04-09T21:45:10.309-07:00 level=INFO source=images.go:804 msg="total blobs: 8"
+time=2024-04-09T21:45:10.319-07:00 level=INFO source=images.go:811 msg="total unused blobs removed: 0"
+time=2024-04-09T21:45:10.321-07:00 level=INFO source=routes.go:1118 msg="Listening on 127.0.0.1:11434 (version 0.1.31)"
+time=2024-04-09T21:45:10.334-07:00 level=INFO source=payload_common.go:113 msg="Extracting dynamic libraries to C:\\Users\\Papi24\\AppData\\Local\\Temp\\ollama3174319851\\runners ..."
+time=2024-04-09T21:45:10.720-07:00 level=INFO source=payload_common.go:140 msg="Dynamic LLM libraries [cpu cuda_v11.3 cpu_avx cpu_avx2 rocm_v5.7]"
+time=2024-04-10T03:18:14.994-07:00 level=INFO source=images.go:804 msg="total blobs: 8"
+time=2024-04-10T03:18:15.013-07:00 level=INFO source=images.go:811 msg="total unused blobs removed: 0"
+time=2024-04-10T03:18:15.020-07:00 level=INFO source=routes.go:1118 msg="Listening on 127.0.0.1:11434 (version 0.1.31)"
+time=2024-04-10T03:18:15.027-07:00 level=INFO source=payload_common.go:113 msg="Extracting dynamic libraries to C:\\Users\\Papi24\\AppData\\Local\\Temp\\ollama2236713870\\runners ..."
+time=2024-04-10T03:18:15.712-07:00 level=INFO source=payload_common.go:140 msg="Dynamic LLM libraries [cuda_v11.3 cpu_avx2 rocm_v5.7 cpu_avx cpu]"
+time=2024-04-10T04:44:51.329-07:00 level=INFO source=images.go:804 msg="total blobs: 8"
+time=2024-04-10T04:44:51.349-07:00 level=INFO source=images.go:811 msg="total unused blobs removed: 0"
+time=2024-04-10T04:44:51.355-07:00 level=INFO source=routes.go:1118 msg="Listening on 127.0.0.1:11434 (version 0.1.31)"
+time=2024-04-10T04:44:51.367-07:00 level=INFO source=payload_common.go:113 msg="Extracting dynamic libraries to C:\\Users\\Papi24\\AppData\\Local\\Temp\\ollama213343061\\runners ..."
+time=2024-04-10T04:44:51.950-07:00 level=INFO source=payload_common.go:140 msg="Dynamic LLM libraries [rocm_v5.7 cpu cpu_avx2 cpu_avx cuda_v11.3]"
+time=2024-04-10T07:02:13.143-07:00 level=INFO source=images.go:804 msg="total blobs: 8"
+time=2024-04-10T07:02:13.174-07:00 level=INFO source=images.go:811 msg="total unused blobs removed: 0"
+time=2024-04-10T07:02:13.179-07:00 level=INFO source=routes.go:1118 msg="Listening on 127.0.0.1:11434 (version 0.1.31)"
+time=2024-04-10T07:02:13.192-07:00 level=INFO source=payload_common.go:113 msg="Extracting dynamic libraries to C:\\Users\\Papi24\\AppData\\Local\\Temp\\ollama3834262388\\runners ..."
+time=2024-04-10T07:02:13.851-07:00 level=INFO source=payload_common.go:140 msg="Dynamic LLM libraries [cpu_avx2 rocm_v5.7 cpu cpu_avx cuda_v11.3]"
+time=2024-04-10T09:28:17.744-07:00 level=INFO source=images.go:804 msg="total blobs: 8"
+time=2024-04-10T09:28:17.755-07:00 level=INFO source=images.go:811 msg="total unused blobs removed: 0"
+time=2024-04-10T09:28:17.759-07:00 level=INFO source=routes.go:1118 msg="Listening on 127.0.0.1:11434 (version 0.1.31)"
+time=2024-04-10T09:28:17.768-07:00 level=INFO source=payload_common.go:113 msg="Extracting dynamic libraries to C:\\Users\\Papi24\\AppData\\Local\\Temp\\ollama1910361703\\runners ..."
+time=2024-04-10T09:28:18.406-07:00 level=INFO source=payload_common.go:140 msg="Dynamic LLM libraries [cpu cuda_v11.3 cpu_avx2 cpu_avx rocm_v5.7]"
+time=2024-04-10T12:06:15.084-07:00 level=INFO source=images.go:804 msg="total blobs: 8"
+time=2024-04-10T12:06:15.090-07:00 level=INFO source=images.go:811 msg="total unused blobs removed: 0"
+time=2024-04-10T12:06:15.097-07:00 level=INFO source=routes.go:1118 msg="Listening on 127.0.0.1:11434 (version 0.1.31)"
+time=2024-04-10T12:06:15.104-07:00 level=INFO source=payload_common.go:113 msg="Extracting dynamic libraries to C:\\Users\\Papi24\\AppData\\Local\\Temp\\ollama2653030359\\runners ..."
+time=2024-04-10T12:06:15.748-07:00 level=INFO source=payload_common.go:140 msg="Dynamic LLM libraries [cpu_avx cpu cpu_avx2 rocm_v5.7 cuda_v11.3]"
+time=2024-04-12T08:59:45.549-07:00 level=INFO source=images.go:804 msg="total blobs: 8"
+time=2024-04-12T08:59:45.572-07:00 level=INFO source=images.go:811 msg="total unused blobs removed: 0"
+time=2024-04-12T08:59:45.578-07:00 level=INFO source=routes.go:1118 msg="Listening on 127.0.0.1:11434 (version 0.1.31)"
+time=2024-04-12T08:59:45.593-07:00 level=INFO source=payload_common.go:113 msg="Extracting dynamic libraries to C:\\Users\\Papi24\\AppData\\Local\\Temp\\ollama2140770995\\runners ..."
+time=2024-04-12T08:59:46.237-07:00 level=INFO source=payload_common.go:140 msg="Dynamic LLM libraries [cpu_avx rocm_v5.7 cuda_v11.3 cpu_avx2 cpu]"
+time=2024-04-13T13:44:52.594-07:00 level=INFO source=images.go:804 msg="total blobs: 8"
+time=2024-04-13T13:44:52.614-07:00 level=INFO source=images.go:811 msg="total unused blobs removed: 0"
+time=2024-04-13T13:44:52.617-07:00 level=INFO source=routes.go:1118 msg="Listening on 127.0.0.1:11434 (version 0.1.31)"
+time=2024-04-13T13:44:52.640-07:00 level=INFO source=payload_common.go:113 msg="Extracting dynamic libraries to C:\\Users\\Papi24\\AppData\\Local\\Temp\\ollama1042470222\\runners ..."
+time=2024-04-13T13:44:53.245-07:00 level=INFO source=payload_common.go:140 msg="Dynamic LLM libraries [cuda_v11.3 cpu_avx2 rocm_v5.7 cpu cpu_avx]"
+time=2024-04-14T13:12:59.352-04:00 level=INFO source=images.go:804 msg="total blobs: 8"
+time=2024-04-14T13:12:59.370-04:00 level=INFO source=images.go:811 msg="total unused blobs removed: 0"
+time=2024-04-14T13:12:59.372-04:00 level=INFO source=routes.go:1118 msg="Listening on 127.0.0.1:11434 (version 0.1.31)"
+time=2024-04-14T13:12:59.392-04:00 level=INFO source=payload_common.go:113 msg="Extracting dynamic libraries to C:\\Users\\Papi24\\AppData\\Local\\Temp\\ollama1271323632\\runners ..."
+time=2024-04-14T13:13:00.213-04:00 level=INFO source=payload_common.go:140 msg="Dynamic LLM libraries [cpu_avx2 cuda_v11.3 rocm_v5.7 cpu_avx cpu]"
+time=2024-04-14T16:58:16.228-04:00 level=INFO source=images.go:804 msg="total blobs: 8"
+time=2024-04-14T16:58:16.246-04:00 level=INFO source=images.go:811 msg="total unused blobs removed: 0"
+time=2024-04-14T16:58:16.248-04:00 level=INFO source=routes.go:1118 msg="Listening on 127.0.0.1:11434 (version 0.1.31)"
+time=2024-04-14T16:58:16.257-04:00 level=INFO source=payload_common.go:113 msg="Extracting dynamic libraries to C:\\Users\\Papi24\\AppData\\Local\\Temp\\ollama2146822483\\runners ..."
+time=2024-04-14T16:58:16.885-04:00 level=INFO source=payload_common.go:140 msg="Dynamic LLM libraries [cpu_avx cuda_v11.3 rocm_v5.7 cpu_avx2 cpu]"
+time=2024-04-14T17:18:12.505-04:00 level=INFO source=images.go:804 msg="total blobs: 8"
+time=2024-04-14T17:18:12.521-04:00 level=INFO source=images.go:811 msg="total unused blobs removed: 0"
+time=2024-04-14T17:18:12.526-04:00 level=INFO source=routes.go:1118 msg="Listening on 127.0.0.1:11434 (version 0.1.31)"
+time=2024-04-14T17:18:12.541-04:00 level=INFO source=payload_common.go:113 msg="Extracting dynamic libraries to C:\\Users\\Papi24\\AppData\\Local\\Temp\\ollama2689504830\\runners ..."
+time=2024-04-14T17:18:13.053-04:00 level=INFO source=payload_common.go:140 msg="Dynamic LLM libraries [cpu_avx cpu_avx2 cpu rocm_v5.7 cuda_v11.3]"
+[GIN] 2024/04/14 - 17:40:04 | 200 |      3.3608ms |       127.0.0.1 | HEAD     "/"
+[GIN] 2024/04/14 - 18:16:00 | 200 |    1.4088041s |       127.0.0.1 | GET      "/api/tags"
+[GIN] 2024/04/14 - 18:16:37 | 200 |     11.4018ms |       127.0.0.1 | GET      "/api/tags"
+[GIN] 2024/04/14 - 18:21:06 | 200 |      6.1197ms |       127.0.0.1 | GET      "/api/tags"
+[GIN] 2024/04/14 - 18:34:49 | 200 |      2.0386ms |       127.0.0.1 | HEAD     "/"
+[GIN] 2024/04/14 - 18:34:49 | 404 |      2.8976ms |       127.0.0.1 | POST     "/api/show"
+time=2024-04-14T18:34:52.438-04:00 level=INFO source=download.go:136 msg="downloading 8934d96d3f08 in 39 100 MB part(s)"
+time=2024-04-14T18:34:58.450-04:00 level=INFO source=download.go:250 msg="8934d96d3f08 part 1 stalled; retrying"
+time=2024-04-14T18:34:58.459-04:00 level=INFO source=download.go:250 msg="8934d96d3f08 part 19 stalled; retrying"
+time=2024-04-14T18:34:58.459-04:00 level=INFO source=download.go:250 msg="8934d96d3f08 part 16 stalled; retrying"
+time=2024-04-14T18:34:58.459-04:00 level=INFO source=download.go:250 msg="8934d96d3f08 part 20 stalled; retrying"
+time=2024-04-14T18:34:58.459-04:00 level=INFO source=download.go:250 msg="8934d96d3f08 part 22 stalled; retrying"
+time=2024-04-14T18:34:58.459-04:00 level=INFO source=download.go:250 msg="8934d96d3f08 part 32 stalled; retrying"
+time=2024-04-14T18:34:58.459-04:00 level=INFO source=download.go:250 msg="8934d96d3f08 part 0 stalled; retrying"
+time=2024-04-14T18:34:58.449-04:00 level=INFO source=download.go:250 msg="8934d96d3f08 part 27 stalled; retrying"
+time=2024-04-14T18:34:58.459-04:00 level=INFO source=download.go:250 msg="8934d96d3f08 part 31 stalled; retrying"
+time=2024-04-14T18:34:58.459-04:00 level=INFO source=download.go:250 msg="8934d96d3f08 part 33 stalled; retrying"
+time=2024-04-14T18:34:58.459-04:00 level=INFO source=download.go:250 msg="8934d96d3f08 part 29 stalled; retrying"
+time=2024-04-14T18:34:58.459-04:00 level=INFO source=download.go:250 msg="8934d96d3f08 part 36 stalled; retrying"
+time=2024-04-14T18:34:58.459-04:00 level=INFO source=download.go:250 msg="8934d96d3f08 part 38 stalled; retrying"
+time=2024-04-14T18:34:58.459-04:00 level=INFO source=download.go:250 msg="8934d96d3f08 part 9 stalled; retrying"
+time=2024-04-14T18:34:58.459-04:00 level=INFO source=download.go:250 msg="8934d96d3f08 part 28 stalled; retrying"
+time=2024-04-14T18:34:58.459-04:00 level=INFO source=download.go:250 msg="8934d96d3f08 part 15 stalled; retrying"
+time=2024-04-14T18:34:58.449-04:00 level=INFO source=download.go:250 msg="8934d96d3f08 part 17 stalled; retrying"
+time=2024-04-14T18:34:58.459-04:00 level=INFO source=download.go:250 msg="8934d96d3f08 part 8 stalled; retrying"
+time=2024-04-14T18:34:58.459-04:00 level=INFO source=download.go:250 msg="8934d96d3f08 part 5 stalled; retrying"
+time=2024-04-14T18:34:58.459-04:00 level=INFO source=download.go:250 msg="8934d96d3f08 part 12 stalled; retrying"
+time=2024-04-14T18:34:58.459-04:00 level=INFO source=download.go:250 msg="8934d96d3f08 part 37 stalled; retrying"
+time=2024-04-14T18:34:58.459-04:00 level=INFO source=download.go:250 msg="8934d96d3f08 part 10 stalled; retrying"
+time=2024-04-14T18:34:58.459-04:00 level=INFO source=download.go:250 msg="8934d96d3f08 part 13 stalled; retrying"
+time=2024-04-14T18:34:58.459-04:00 level=INFO source=download.go:250 msg="8934d96d3f08 part 11 stalled; retrying"
+time=2024-04-14T18:34:58.449-04:00 level=INFO source=download.go:250 msg="8934d96d3f08 part 14 stalled; retrying"
+time=2024-04-14T18:34:59.444-04:00 level=INFO source=download.go:250 msg="8934d96d3f08 part 35 stalled; retrying"
+time=2024-04-14T18:34:59.444-04:00 level=INFO source=download.go:250 msg="8934d96d3f08 part 30 stalled; retrying"
+time=2024-04-14T18:34:59.444-04:00 level=INFO source=download.go:250 msg="8934d96d3f08 part 34 stalled; retrying"
+time=2024-04-14T18:34:59.445-04:00 level=INFO source=download.go:250 msg="8934d96d3f08 part 26 stalled; retrying"
+time=2024-04-14T18:34:59.445-04:00 level=INFO source=download.go:250 msg="8934d96d3f08 part 23 stalled; retrying"
+time=2024-04-14T18:34:59.445-04:00 level=INFO source=download.go:250 msg="8934d96d3f08 part 4 stalled; retrying"
+time=2024-04-14T18:34:59.445-04:00 level=INFO source=download.go:250 msg="8934d96d3f08 part 3 stalled; retrying"
+time=2024-04-14T18:34:59.445-04:00 level=INFO source=download.go:250 msg="8934d96d3f08 part 6 stalled; retrying"
+time=2024-04-14T18:34:59.445-04:00 level=INFO source=download.go:250 msg="8934d96d3f08 part 21 stalled; retrying"
+time=2024-04-14T18:34:59.445-04:00 level=INFO source=download.go:250 msg="8934d96d3f08 part 7 stalled; retrying"
+time=2024-04-14T18:34:59.445-04:00 level=INFO source=download.go:250 msg="8934d96d3f08 part 18 stalled; retrying"
+time=2024-04-14T18:36:05.775-04:00 level=INFO source=images.go:1134 msg="request failed: Head \"https://registry.ollama.ai/v2/library/llama2/blobs/sha256:8c17c2ebb0ea011be9981cc3922db8ca8fa61e828c5d3f44cb6ae342bf80460b\": read tcp [2603:7000:6200:1c41:e1ef:df23:3e04:b60d]:51392->[2606:4700:3034::ac43:b6e5]:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."
+[GIN] 2024/04/14 - 18:36:05 | 200 |         1m16s |       127.0.0.1 | POST     "/api/pull"
+[GIN] 2024/04/14 - 19:16:24 | 200 |      5.9633ms |       127.0.0.1 | GET      "/api/tags"
+[GIN] 2024/04/14 - 19:24:22 | 404 |            0s |       127.0.0.1 | GET      "/login"
+[GIN] 2024/04/14 - 19:24:22 | 404 |            0s |       127.0.0.1 | GET      "/favicon.ico"
+[GIN] 2024/04/14 - 19:24:27 | 404 |            0s |       127.0.0.1 | GET      "/login"
+[GIN] 2024/04/14 - 19:24:57 | 200 |            0s |       127.0.0.1 | GET      "/api/version"
